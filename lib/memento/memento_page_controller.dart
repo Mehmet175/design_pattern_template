@@ -57,8 +57,8 @@ class MementoPageController {
     if (inputManager.listMemento.isEmpty) return;
     if (stepIndex == null) return;
     if (stepIndex == inputManager.listMemento.length - 1) return;
-    stepIndex = stepIndex! + 1;
     input.restore(inputManager.listMemento.elementAt(stepIndex! + 1));
+    stepIndex = stepIndex! + 1;
     tecNote.text = input.note;
   }
 }
