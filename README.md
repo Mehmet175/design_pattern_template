@@ -2,6 +2,5 @@
 
 
 ## Memento Pattern : 
-<img src="https://raw.githubusercontent.com/Mehmet175/design_pattern_template/main/gif/memento.gif" height="200">
+<img src="https://raw.githubusercontent.com/Mehmet175/design_pattern_template/main/gif/memento.gif" height="500">
 
-![](https://raw.githubusercontent.com/Mehmet175/design_pattern_template/main/gif/memento.gif)
