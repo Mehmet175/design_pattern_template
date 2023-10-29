@@ -1,0 +1,11 @@
+<<< Memento Tasarım Deseni >>>
+
+* Davranışsal (behavioral) tasarım desenlerinden biridir.
+* Nesnemizin bir halinin kaydedilmesi ve istenildiğinde o haline geri alma (undo)
+özelliği sağlamaktadır.
+
+
+lib/memento/utils/generic_care_taker.dart >> Geri alma ve kaydetme işlemlerinin üstünden döneceği memento nesnemizi tutan dadımız.
+lib/memento/utils/generic_memento.dart >> Verilen tipte nesne tutuyor.
+
+
