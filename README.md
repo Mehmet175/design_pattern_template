@@ -3,7 +3,4 @@
 
 ## Memento Pattern : 
 
-
-![Uploading ezgif-4-55d700250c.gif…]()
-
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://raw.githubusercontent.com/Mehmet175/design_pattern_template/main/gif/memento.gif)https://raw.githubusercontent.com/Mehmet175/design_pattern_template/main/gif/memento.gif" width="40" height="40" />
